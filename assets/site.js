@@ -1,5 +1,10 @@
 'use strict';
 
+// Directory URLs work on GitHub Pages; also tidy explicitly bookmarked index files.
+if (location.pathname.endsWith('/index.html')) {
+  history.replaceState(null, '', location.pathname.slice(0, -10) + location.search + location.hash);
+}
+
 const filters = [...document.querySelectorAll('[data-filter]')];
 const projects = [...document.querySelectorAll('[data-category]')];
 const resultCount = document.querySelector('[data-result-count]');

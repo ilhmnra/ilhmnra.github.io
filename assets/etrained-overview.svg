@@ -2,31 +2,31 @@
   <title id="title">Etrained training administration workflow</title>
   <desc id="desc">An original conceptual diagram connecting training requests, approval, training delivery and records. This is a workflow illustration, not a screenshot.</desc>
   <defs>
-    <marker id="arrow" markerWidth="7" markerHeight="7" refX="5.5" refY="3.5" orient="auto"><path d="m0 0 7 3.5L0 7" fill="none" stroke="#7c96b4" stroke-width="1.5"/></marker>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="5.5" refY="3.5" orient="auto"><path d="m0 0 7 3.5L0 7" fill="none" stroke="#799c8c" stroke-width="1.5"/></marker>
   </defs>
-  <rect width="1200" height="600" fill="#eef3f9"/>
-  <circle cx="1137" cy="37" r="184" fill="#e5edf6"/>
+  <rect width="1200" height="600" fill="#edf4f1"/>
+  <circle cx="1137" cy="37" r="184" fill="#e0ede7"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="60" y="78" fill="#243e5d" font-size="42" font-weight="700">Etrained</text>
-    <text x="60" y="116" fill="#5d7188" font-size="22">Training administration, connected.</text>
-    <rect x="60" y="154" width="1080" height="354" rx="16" fill="#ffffff" stroke="#d6e0ec" stroke-width="2"/>
-    <path d="M60 217h1080" stroke="#e5ebf2" stroke-width="2"/>
-    <circle cx="96" cy="187" r="6" fill="#7ba898"/>
-    <text x="114" y="194" fill="#526b86" font-size="19">HR and business units</text>
-    <text x="1107" y="194" text-anchor="end" fill="#6c7f94" font-size="17">One connected workflow</text>
+    <text x="60" y="78" fill="#284f47" font-size="42" font-weight="700">Etrained</text>
+    <text x="60" y="116" fill="#5d7a6e" font-size="22">Training administration, connected.</text>
+    <rect x="60" y="154" width="1080" height="354" rx="16" fill="#ffffff" stroke="#d3e2d9" stroke-width="2"/>
+    <path d="M60 217h1080" stroke="#e2ebe5" stroke-width="2"/>
+    <circle cx="96" cy="187" r="6" fill="#7da88c"/>
+    <text x="114" y="194" fill="#527363" font-size="19">HR and business units</text>
+    <text x="1107" y="194" text-anchor="end" fill="#6a8275" font-size="17">One connected workflow</text>
 
-    <g fill="#f5f8fc" stroke="#dae3ee" stroke-width="2">
+    <g fill="#f7faf4" stroke="#dbe7de" stroke-width="2">
       <rect x="92" y="246" width="236" height="177" rx="10"/>
       <rect x="352" y="246" width="236" height="177" rx="10"/>
       <rect x="612" y="246" width="236" height="177" rx="10"/>
       <rect x="872" y="246" width="236" height="177" rx="10"/>
     </g>
-    <g stroke="#7c96b4" stroke-width="2" marker-end="url(#arrow)">
+    <g stroke="#799c8c" stroke-width="2" marker-end="url(#arrow)">
       <path d="M330 336h17"/>
       <path d="M590 336h17"/>
       <path d="M850 336h17"/>
     </g>
-    <g fill="none" stroke="#3e628f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <g fill="none" stroke="#356965" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
       <rect x="115" y="269" width="36" height="31" rx="4"/>
       <path d="M115 279h36m-27-15v10m18-10v10m-16 13h15m-7-7v14"/>
       <rect x="375" y="268" width="34" height="34" rx="7"/>
@@ -34,13 +34,13 @@
       <path d="M636 269h37v25h-37zm18 25v10m-10 0h20m-21-25h20m-20 7h13"/>
       <path d="M897 274h11l5 6h23v23h-39zm5 12h27m-27 7h20"/>
     </g>
-    <g fill="#243e5d" font-size="25" font-weight="700">
+    <g fill="#284f47" font-size="25" font-weight="700">
       <text x="115" y="343">Request</text>
       <text x="375" y="343">Approval</text>
       <text x="635" y="343">Training</text>
       <text x="895" y="343">Records</text>
     </g>
-    <g fill="#687c92" font-size="18">
+    <g fill="#687f71" font-size="18">
       <text x="115" y="376">Register participants</text>
       <text x="115" y="402">and coordinate schedules</text>
       <text x="375" y="376">Follow responsibilities</text>
@@ -50,10 +50,10 @@
       <text x="895" y="376">Review training history</text>
       <text x="895" y="402">and reporting</text>
     </g>
-    <path d="M92 452h1016" stroke="#e5ebf2" stroke-width="2"/>
-    <text x="92" y="483" fill="#687c92" font-size="18">Requirements analysis</text>
-    <text x="432" y="483" fill="#687c92" font-size="18">Application delivery</text>
-    <text x="792" y="483" fill="#687c92" font-size="18">Workflow validation and UAT</text>
-    <text x="60" y="557" fill="#718397" font-size="16">Workflow illustration</text>
+    <path d="M92 452h1016" stroke="#e2ebe5" stroke-width="2"/>
+    <text x="92" y="483" fill="#687f71" font-size="18">Requirements analysis</text>
+    <text x="432" y="483" fill="#687f71" font-size="18">Application delivery</text>
+    <text x="792" y="483" fill="#687f71" font-size="18">Workflow validation and UAT</text>
+    <text x="60" y="557" fill="#70887a" font-size="16">Workflow illustration</text>
   </g>
 </svg>

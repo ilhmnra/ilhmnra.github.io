@@ -1,62 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
   <title id="title">Countlorie calorie tracker product illustration</title>
   <desc id="desc">An original product illustration representing personalized calorie targets, meal and portion logging, and intake monitoring. The simplified phone drawing is not an actual application screenshot.</desc>
-  <rect width="1200" height="600" fill="#edf5f2"/>
-  <circle cx="985" cy="300" r="289" fill="#e1eee8"/>
+  <rect width="1200" height="600" fill="#eef4ed"/>
+  <circle cx="985" cy="300" r="289" fill="#e3eddf"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="60" y="78" fill="#244a40" font-size="42" font-weight="700">Countlorie</text>
-    <text x="60" y="116" fill="#5c796f" font-size="22">A clearer view of daily intake.</text>
+    <text x="60" y="78" fill="#31513c" font-size="42" font-weight="700">Countlorie</text>
+    <text x="60" y="116" fill="#647b66" font-size="22">A clearer view of daily intake.</text>
 
-    <g fill="#ffffff" stroke="#d2e3db" stroke-width="2">
+    <g fill="#ffffff" stroke="#d8e4d2" stroke-width="2">
       <rect x="60" y="177" width="420" height="84" rx="12"/>
       <rect x="60" y="279" width="420" height="84" rx="12"/>
       <rect x="60" y="381" width="420" height="84" rx="12"/>
     </g>
-    <g fill="#e4eee9">
+    <g fill="#e8efe2">
       <circle cx="101" cy="219" r="22"/>
       <circle cx="101" cy="321" r="22"/>
       <circle cx="101" cy="423" r="22"/>
     </g>
-    <g fill="none" stroke="#528575" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+    <g fill="none" stroke="#64845b" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
       <circle cx="101" cy="219" r="11"/><circle cx="101" cy="219" r="4"/>
       <path d="M93 313v17m-4-17v7h8v-7m0 17h-8m19-17v17m0-17q8 7 0 10"/>
       <path d="M89 430v-11m10 11v-20m10 20v-15"/>
     </g>
-    <g fill="#315c4e" font-size="22" font-weight="700">
+    <g fill="#45643e" font-size="22" font-weight="700">
       <text x="141" y="214">Personalized targets</text>
       <text x="141" y="316">Meal and portion logging</text>
       <text x="141" y="418">Intake monitoring</text>
     </g>
-    <g fill="#6c857b" font-size="17">
+    <g fill="#6f8367" font-size="17">
       <text x="141" y="239">A daily goal that fits the user</text>
       <text x="141" y="341">A record of everyday food choices</text>
       <text x="141" y="443">Progress in one place</text>
     </g>
 
-    <rect x="600" y="107" width="279" height="433" rx="34" fill="#305748"/>
+    <rect x="600" y="107" width="279" height="433" rx="34" fill="#41613e"/>
     <rect x="609" y="116" width="261" height="415" rx="27" fill="#ffffff"/>
-    <rect x="702" y="128" width="75" height="7" rx="3.5" fill="#d8e7df"/>
-    <text x="635" y="175" fill="#315c4e" font-size="20" font-weight="700">Daily overview</text>
-    <circle cx="739" cy="270" r="62" fill="#f5f9f6" stroke="#e3eee7" stroke-width="11"/>
-    <path d="M739 208a62 62 0 1 1-53.7 93" fill="none" stroke="#74a28a" stroke-width="11" stroke-linecap="round"/>
-    <g fill="none" stroke="#729c84" stroke-width="2">
+    <rect x="702" y="128" width="75" height="7" rx="3.5" fill="#dde8d7"/>
+    <text x="635" y="175" fill="#45643e" font-size="20" font-weight="700">Daily overview</text>
+    <circle cx="739" cy="270" r="62" fill="#f7faf4" stroke="#e6eedf" stroke-width="11"/>
+    <path d="M739 208a62 62 0 1 1-53.7 93" fill="none" stroke="#8aa77a" stroke-width="11" stroke-linecap="round"/>
+    <g fill="none" stroke="#87a077" stroke-width="2">
       <circle cx="739" cy="270" r="25"/>
       <path d="M704 246v47m-5-47v13h10v-13m65 0v47m0-47q10 14 0 22" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
-    <text x="739" y="365" text-anchor="middle" fill="#5c796f" font-size="18">Your intake, at a glance</text>
-    <rect x="631" y="390" width="217" height="47" rx="9" fill="#edf5f0"/>
-    <path d="M650 406v15m-7-7h14" stroke="#528575" stroke-width="2" stroke-linecap="round"/>
-    <text x="669" y="419" fill="#46735e" font-size="17">Log a meal</text>
-    <rect x="631" y="448" width="217" height="47" rx="9" fill="#f4f7fa"/>
-    <circle cx="650" cy="469" r="6" fill="none" stroke="#6f88a5" stroke-width="2"/>
-    <path d="m655 474 5 5" stroke="#6f88a5" stroke-width="2" stroke-linecap="round"/>
-    <text x="669" y="478" fill="#627b94" font-size="17">Find a food</text>
+    <text x="739" y="365" text-anchor="middle" fill="#647b66" font-size="18">Your intake, at a glance</text>
+    <rect x="631" y="390" width="217" height="47" rx="9" fill="#f0f5e9"/>
+    <path d="M650 406v15m-7-7h14" stroke="#64845b" stroke-width="2" stroke-linecap="round"/>
+    <text x="669" y="419" fill="#647d4f" font-size="17">Log a meal</text>
+    <rect x="631" y="448" width="217" height="47" rx="9" fill="#f0f5f1"/>
+    <circle cx="650" cy="469" r="6" fill="none" stroke="#729187" stroke-width="2"/>
+    <path d="m655 474 5 5" stroke="#729187" stroke-width="2" stroke-linecap="round"/>
+    <text x="669" y="478" fill="#6c8479" font-size="17">Find a food</text>
 
-    <circle cx="1000" cy="310" r="75" fill="#f8fbf8" stroke="#cee1d5" stroke-width="2"/>
-    <circle cx="1000" cy="310" r="53" fill="#edf4ec" stroke="#dae6d9" stroke-width="2"/>
-    <path d="M969 291c-3-16 15-27 30-17 13-17 34-6 32 10-1 15-13 19-30 21-17 4-29-1-32-14" fill="#87ac87"/>
+    <circle cx="1000" cy="310" r="75" fill="#fafcf6" stroke="#d8e4cb" stroke-width="2"/>
+    <circle cx="1000" cy="310" r="53" fill="#f0f5e8" stroke="#e0e8d6" stroke-width="2"/>
+    <path d="M969 291c-3-16 15-27 30-17 13-17 34-6 32 10-1 15-13 19-30 21-17 4-29-1-32-14" fill="#8dad82"/>
     <path d="M973 323c4-15 21-19 30-5 17-5 30 10 20 22-8 12-30 10-41 3-8-4-12-11-9-20" fill="#c7b888"/>
     <circle cx="1024" cy="306" r="12" fill="#cf9d82"/>
-    <text x="60" y="557" fill="#71877d" font-size="16">Product illustration</text>
+    <text x="60" y="557" fill="#76886b" font-size="16">Product illustration</text>
   </g>
 </svg>
