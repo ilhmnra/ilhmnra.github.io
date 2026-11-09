@@ -10,3 +10,4 @@ ENERGY 1 / RHYTHM 2 / MOTION 1.
 - Let the image use the article width. Give short contextual notes and the training sequence different treatment from narrative paragraphs, so the hierarchy follows the material.
 - Use the site's spacing rhythm, with larger gaps at chapter breaks and tighter spacing within a topic. Keep the narrow layout in one column with wrapping actions and at least 44 px for primary targets.
 - Use real headings and landmarks, descriptive image text, visible keyboard focus, and native anchors for navigation. Keep transitions to the site's existing interactive states.
+- Group project tools by the work they support. Keep the About page's existing skill groups and use the case study to explain how the tools were applied.
